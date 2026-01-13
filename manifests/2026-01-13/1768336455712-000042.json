@@ -1,0 +1,15 @@
+{
+  "v": 2,
+  "created": "2026-01-13T20:34:15.712Z",
+  "previousHash": "8870beac492a16811d3ef13ae311329991af66891b86056ffe65e4ce2c3ac521",
+  "entries": [],
+  "entryCount": 0,
+  "merkle": {
+    "version": 2,
+    "rootHash": "2e1cfa82b035c26cbbbdae632cea070514eb8b773f616aaeaf668e2f0be8f10d",
+    "treeHeight": 0,
+    "leafCount": 0,
+    "leaves": []
+  },
+  "manifestHash": "09057e3aef9f717f235622427c38298cf397b097a25d660c085fa90d7702017c"
+}
