@@ -1,0 +1,77 @@
+{
+  "v": 2,
+  "created": "2026-01-13T23:07:30.995Z",
+  "previousHash": "8a09ab3878589f87f8b3ad0f483ddaf7891254faf548c912f63571bf0959e919",
+  "entries": [
+    {
+      "payloadHash": "b91b1e272c65b2b57dd272320de5a3de95803bfa7e9c45585cf686743dd0ba33",
+      "sigHash": "95fe7f7292c9e6f16e905bf280d1f3b93977bc39b3bf00cc3dcaf3079dccb647",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-13T23:03:42.139Z",
+      "requestId": "req-aa9cb4ee0be8d39e",
+      "assetToken": "trk-file-ed2a6c137f7f",
+      "contentHash": "sha256:79f91d143519f470726c7b23c3b66b068d212f61f04eb1772a796852442a8c9e"
+    },
+    {
+      "payloadHash": "188b00d81d1cb37680ea80163182f95dd48ebffc9c963927ffa44d110b3900b1",
+      "sigHash": "aecff6478aeed7345436c2d071c7098859b4d94ddd7818942c0ab399eb908053",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-13T23:03:43.514Z",
+      "requestId": "req-b4a823fd31abed32",
+      "assetToken": "trk-file-ed2a6c137f7f",
+      "contentHash": "sha256:79f91d143519f470726c7b23c3b66b068d212f61f04eb1772a796852442a8c9e"
+    },
+    {
+      "payloadHash": "3ecd1e05b42901829090d6a7e429caab7250f830a0b3ab7bfe0e73c3481129fb",
+      "sigHash": "ef417c28933251ba6f55a36402924717c9c77a6a7e7d99f7cd810680b41d3d64",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-13T23:03:53.069Z",
+      "requestId": "req-811605b30c5084e7",
+      "assetToken": "trk-file-ba5ade3229c4",
+      "contentHash": "sha256:b7fa158beee491b68a3de38f9cf3ddbf6a2883349f606aa8ba397b352d895459"
+    },
+    {
+      "payloadHash": "5c76d151f6f5c8841691c75c66c556d36a1d0e1fcad14d7325e77d8753d14a45",
+      "sigHash": "67e4ae33f0a5cc80096907db267da1a42f85098319bb19dcab9909272d5fc122",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-13T23:03:54.219Z",
+      "requestId": "req-673f92e6fbff96e3",
+      "assetToken": "trk-file-ba5ade3229c4",
+      "contentHash": "sha256:b7fa158beee491b68a3de38f9cf3ddbf6a2883349f606aa8ba397b352d895459"
+    },
+    {
+      "payloadHash": "28768408e6ab05104f8386f6fbe2624adbe927c5a0e1d94e699beaf75bf475f0",
+      "sigHash": "5aad393bd67755cbf78f1794b65e54d3ea4af6fce64b5148bc8f8823a4db7391",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-13T23:04:01.541Z",
+      "requestId": "req-e35ce78ef8ab38a1",
+      "assetToken": "trk-file-ded2b1c655a3",
+      "contentHash": "sha256:7a28e9beaf5e5bf8abfa63d6ebb1c45feb21bed2b44893dd1f4ba72b6e969448"
+    },
+    {
+      "payloadHash": "74b8b910011766e9f5389ef2d17b60b6270d44d2d3abc33abb204634d6cf2a30",
+      "sigHash": "b5fb9ea96987b0fd946ff06cdea8ad17174414b61e53b9a94349dc8f6efe6739",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-13T23:04:02.916Z",
+      "requestId": "req-307f11db4c1668fe",
+      "assetToken": "trk-file-ded2b1c655a3",
+      "contentHash": "sha256:7a28e9beaf5e5bf8abfa63d6ebb1c45feb21bed2b44893dd1f4ba72b6e969448"
+    }
+  ],
+  "entryCount": 6,
+  "merkle": {
+    "version": 2,
+    "rootHash": "c8ce18d07547a74dba057cad504dd86091185bbd2d14c172456ef8b0fec6c1cb",
+    "treeHeight": 3,
+    "leafCount": 6,
+    "leaves": [
+      "5b920151a9c769153942049496960dc755f5f285a84739e2aa8e8c400581c931",
+      "4656fbf1c1dcccd4f1f85e000dc7d7eed71c2d0a0e4b43f868b73023a5849b63",
+      "9fb73af2d006a902134bd041fb27d6572f15362e7eefc300fa38a12b17d600ea",
+      "15b23d899dfbe3c1edc431e39d1bbf8669936c542a6497ade2528d33ef7d56fe",
+      "b4855062ebc0642e2d99fe9e96cdb1255e51920ebddc1e11188a711706ba6d53",
+      "2036e104a545ea7ac883216d4a70c35d35e53212be36efa198c258ab5ddc2c68"
+    ]
+  },
+  "manifestHash": "15fe6e49ba00736f92d3e24020981ab70cd360e87b29f45cbe11e970cd6d8257"
+}
