@@ -1,0 +1,47 @@
+{
+  "v": 2,
+  "created": "2026-01-20T02:43:15.662Z",
+  "previousHash": "8a09ab3878589f87f8b3ad0f483ddaf7891254faf548c912f63571bf0959e919",
+  "entries": [
+    {
+      "payloadHash": "70bb07be5dcdc47a6b4407a57b3516b9b5be4c4ad86e4ab6d8257f8ed89e77c8",
+      "sigHash": "8ae5aaf491eb402e7c88044d443c8567283f9681dc42623f8c0473fcc12c65c1",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-20T02:42:14.255Z",
+      "requestId": "req-4ed3bfcb40a3a464",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "569fa7521f9c0418c13e48fd612c4f000dbc6a0dfbd13b4ae666cc73fbb3cd88",
+      "sigHash": "a350ab1a39ff105fffbf6b83a802836bf2a5adb389d4bc455b35a23741bd2e7b",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-20T02:42:38.094Z",
+      "requestId": "req-619a5a939a314deb",
+      "assetToken": "trk-file-26bc356e42bd",
+      "contentHash": "sha256:3b22bbbafe726bb198daf6205534d0aa4983ae1b887210f4efedbec872bd0a1e"
+    },
+    {
+      "payloadHash": "19edaca9ae5bd6311b13af3f6fadacd4cc4d1b6285043d017457665288c8589b",
+      "sigHash": "c03c9f9d80b5302f50d43b3e3759a78f113185e18c7c1f2998c9fd5d906029f1",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-20T02:42:44.455Z",
+      "requestId": "req-4e5bc6cbfe085721",
+      "assetToken": "trk-file-26bc356e42bd",
+      "contentHash": "sha256:3b22bbbafe726bb198daf6205534d0aa4983ae1b887210f4efedbec872bd0a1e"
+    }
+  ],
+  "entryCount": 3,
+  "merkle": {
+    "version": 2,
+    "rootHash": "adf18caed938cb4985318918763951ae3d3fa42e1b1e08388fec22670a02a956",
+    "treeHeight": 2,
+    "leafCount": 3,
+    "leaves": [
+      "431bfdc2f0538b4cb939bf924d22ae832119835187eb88362abbaac4b1b799d6",
+      "2dbbe0d9a7cf5ba6bd510d5db0d1104470cd51ad0244e0755faa9f1f21445999",
+      "c996d95e00c6b61fc8a7c72ab3b004916bb2e5b64c758de216bbcc99b209a263"
+    ]
+  },
+  "manifestHash": "22c8d16b42e0e013b6acf7b02303a1e7b55ca2b71983f2f2c27f63e0574c0928"
+}
