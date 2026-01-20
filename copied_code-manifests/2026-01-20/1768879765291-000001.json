@@ -1,0 +1,52 @@
+{
+  "v": 2,
+  "type": "copyManifest",
+  "created": "2026-01-20T03:29:25.291Z",
+  "entries": [
+    {
+      "type": "copy",
+      "payloadHash": "d7345a2215ee54ac93ff465cb72749087a42a9f8c08807b0da7a8453ab243c79",
+      "sigHash": "c010a3d72a4e4c27a3d35191eb61c789d351100cb3ef9ebc06f342fa2baf862d",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-20T03:28:42.419Z",
+      "copyReceiptId": "l0copy-67636a41161c",
+      "token": "l0copy-af6dfa5e3fa9c0fe-876c9c47",
+      "snippetHash": "3b22bbbafe726bb198daf6205534d0aa4983ae1b887210f4efedbec872bd0a1e",
+      "contentHash": "3b22bbbafe726bb198daf6205534d0aa4983ae1b887210f4efedbec872bd0a1e"
+    },
+    {
+      "type": "copy",
+      "payloadHash": "7e3d1a538f81efcead4a5b65787d7fcf0ebab4c80416535a5fafd3004e54f72e",
+      "sigHash": "a73dc154dacc1fae1e095c555f599979de84297735d4632020c1216126f5fac7",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-20T03:28:43.448Z",
+      "copyReceiptId": "l0copy-0cd2a5906886",
+      "token": "l0copy-d7dd974f9e1c4c90-876c9c47",
+      "snippetHash": "440bdc719ac23ba4404f8c1dd52ef30aee7dc625cb70a5df7a20028d7aba9732",
+      "contentHash": "3b22bbbafe726bb198daf6205534d0aa4983ae1b887210f4efedbec872bd0a1e"
+    },
+    {
+      "type": "copy",
+      "payloadHash": "764690c9aed3911ad0cb6176d78fe73db7e6a1e41743c71eb6514a4a4d23271f",
+      "sigHash": "a9f47f75a4739e200e2e9590d227bea0d51f47c4150963b6fb10410329e04b61",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-20T03:29:25.286Z",
+      "copyReceiptId": "l0copy-a9c1feec90c8",
+      "token": "l0copy-3e0e68e46b1ff1ef-876c9c47",
+      "snippetHash": "6894377ee0307a64a13ba0fa094355d238ab497b14e0238f4dd5d18d69897103",
+      "contentHash": "6894377ee0307a64a13ba0fa094355d238ab497b14e0238f4dd5d18d69897103"
+    }
+  ],
+  "entryCount": 3,
+  "merkle": {
+    "rootHash": "8b528a67ad55c952ddaa78b3c99674fdf6c4e3f7702763bcd3c184d6381ff11e",
+    "treeHeight": 2,
+    "leafCount": 3,
+    "leaves": [
+      "8abcd783d27d07c6b52e10803a8884245f9bcdfbb6f71bed8b5278019aabb347",
+      "a0be7593b97dec922f6e81207e223cb53175870e91ff7db9f53cde169503aab7",
+      "6bbf76178478b0cd851df87753b2037534c8313b3bddaa2780d88bfbf399c404"
+    ]
+  },
+  "manifestHash": "7bf049eb759bf5e25b2c300d27d2fc8b8aaf139ebd3feaa12ed6f6926c11478c"
+}
