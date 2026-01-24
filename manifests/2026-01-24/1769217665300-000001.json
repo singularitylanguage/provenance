@@ -1,0 +1,47 @@
+{
+  "v": 2,
+  "created": "2026-01-24T01:21:05.300Z",
+  "previousHash": "62860b9bae0ce3433855078c852ea63506297672e708f7b1a8997f74ef502eea",
+  "entries": [
+    {
+      "payloadHash": "48e5da19846aa2303cf7ff2d5e978d1a44c5270762c2f5bceee481700fcabfa9",
+      "sigHash": "9fa188a853c4c860ec1f64005c835dc09c4dccfa1f6474d95bc24e41e7db5091",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-24T01:16:54.565Z",
+      "requestId": "req-b6653fedf83429ae",
+      "assetToken": "trk-file-ed2a6c137f7f",
+      "contentHash": "sha256:79f91d143519f470726c7b23c3b66b068d212f61f04eb1772a796852442a8c9e"
+    },
+    {
+      "payloadHash": "355625667d199f42091543337ea3a3f4f9135f79194e359e8410de6ade817274",
+      "sigHash": "1b41ebe51eef02cce29c7d976ad54549475cef1fedc40898b3ad87f093028ace",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-24T01:17:25.355Z",
+      "requestId": "req-829a65b43a32eae6",
+      "assetToken": "trk-file-8291ba86ced6",
+      "contentHash": "sha256:ab7e36ba56b37deb9a2272c8399cda09a18a282165064c93058d80b5c94d7991"
+    },
+    {
+      "payloadHash": "300f03c94f2442e9ab6ee976949dc24d181670c73fc4d752a0f8dd1c1a788ca6",
+      "sigHash": "a4eecc2de3654123dbba1b821690ace2e94fff6ec2eab0fed2bf323c4d593c7d",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-24T01:17:31.562Z",
+      "requestId": "req-7722dc9a8191445a",
+      "assetToken": "trk-file-f99f30925d1c",
+      "contentHash": "sha256:9fec322c43b2f861263d0e8dd2edc0ad901cec0daaaaf8169570a2e5cc8edd69"
+    }
+  ],
+  "entryCount": 3,
+  "merkle": {
+    "version": 2,
+    "rootHash": "50ec505b4d4a1c3fc2463ab1e5ae755621f3872a35d7ef4228265ca14f5c1be2",
+    "treeHeight": 2,
+    "leafCount": 3,
+    "leaves": [
+      "fa8805cadebe6c00cf06f8d9b8c030f9c8aa99a165b6291c84095fac07c3b541",
+      "20eff28848a7d213d8c93c4047e08bdd9ac470cc085fc2e8e23d2906d8cbcc05",
+      "101d1f6f01f7a70838714701ac5ac958d8fbcb56793e1a6b387466db46ddcc29"
+    ]
+  },
+  "manifestHash": "e77f4e18a1557008b3eca2c6212af64bba2e9eccb800e43a6500301b2bbb7ead"
+}
