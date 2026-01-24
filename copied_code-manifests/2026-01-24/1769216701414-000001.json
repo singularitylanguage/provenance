@@ -1,0 +1,28 @@
+{
+  "v": 2,
+  "type": "copyManifest",
+  "created": "2026-01-24T01:05:01.414Z",
+  "entries": [
+    {
+      "type": "copy",
+      "payloadHash": "6b08b2a918a2f25d66a88365dbc4d2dbf2337df648ba796525720a3a1278d1bd",
+      "sigHash": "9094d8d8272b4b09f0facb78aeded49d90ad878645b58dc75782ef7047fed199",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-24T01:05:01.409Z",
+      "copyReceiptId": "l0copy-17648d935c1c",
+      "token": "l0copy-d796dd450cffc296-876c9c47",
+      "snippetHash": "f5d03823cdbbceed56ead47f1968618a56735f51e16c0cde9cbc00f495a902b4",
+      "contentHash": "1b44eab9d75326231fbf3791db13054e9b69d289bdc0675aab4bc0a849133a46"
+    }
+  ],
+  "entryCount": 1,
+  "merkle": {
+    "rootHash": "eb3dd1f20ffbc9e1e0d3f5cda18d60342c1be84132877ffa473f94fd7b7454af",
+    "treeHeight": 0,
+    "leafCount": 1,
+    "leaves": [
+      "eb3dd1f20ffbc9e1e0d3f5cda18d60342c1be84132877ffa473f94fd7b7454af"
+    ]
+  },
+  "manifestHash": "89a05e5472dfb678888360f90a127925828ec71b13de2d5e0b1a45a2d17ad8be"
+}
