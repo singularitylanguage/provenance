@@ -1,0 +1,40 @@
+{
+  "v": 2,
+  "type": "copyManifest",
+  "created": "2026-01-24T04:57:02.240Z",
+  "entries": [
+    {
+      "type": "copy",
+      "payloadHash": "48a7efa05844964db62732826c94a9affe7dedbbe33b0f6c518c94d21b025d1f",
+      "sigHash": "554c8eca5687881c59e90f0c3dac5c9f2759f9406cc8fcd6a0c949537d32020f",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-24T01:58:15.076Z",
+      "copyReceiptId": "l0copy-b9b09b72140f",
+      "token": "l0copy-50a8908d3ca66bd8-876c9c47",
+      "snippetHash": "a2e3747916533401956e53302f1d4ac63abce27327352e71ad1a1a0c1cee0346",
+      "contentHash": "a2e3747916533401956e53302f1d4ac63abce27327352e71ad1a1a0c1cee0346"
+    },
+    {
+      "type": "copy",
+      "payloadHash": "a4dd071157c7885b4f7820ae753700379a8ee4a9fa273242e0f4babf488ca3a1",
+      "sigHash": "9531574c5ac3bd8c6b684c67e15dade503fafdd62621da8df3116e8514d71332",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-01-24T04:57:02.233Z",
+      "copyReceiptId": "l0copy-a3809d313f1b",
+      "token": "l0copy-1b086df2d2bd5bd0-876c9c47",
+      "snippetHash": "e1ae5dd66ee29490b9e89c0daab616d38502a77c75049581236f109610ff60de",
+      "contentHash": "148403011c024a878c95ac16774457b1ccdac099c00a89988d7b88feb53640b6"
+    }
+  ],
+  "entryCount": 2,
+  "merkle": {
+    "rootHash": "b5f2418f1ddd8ecb8febc8a3e0a12b6a0fa0cf092c810e9ca62f9b52e0007e5b",
+    "treeHeight": 1,
+    "leafCount": 2,
+    "leaves": [
+      "6741ca18d830634644c660b889100c9cf2d7ca5964a2fcdcae15d51fa044a3a6",
+      "8a732a7d5806b7daa56622ef3a77776bf3f7bc2d2394b0be3775ab0868c9bc93"
+    ]
+  },
+  "manifestHash": "30931020d31445d7ac71ade2726a8be763aed8f3ace6b0be3521f9428257d9ff"
+}
