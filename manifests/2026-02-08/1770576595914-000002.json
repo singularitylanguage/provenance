@@ -1,0 +1,57 @@
+{
+  "v": 2,
+  "created": "2026-02-08T18:49:55.914Z",
+  "previousHash": "91911fa2a4258779840192e6dea19730a7138506877aa30bce8dc81615dfaca4",
+  "entries": [
+    {
+      "payloadHash": "ccb641e1a3676239bed3a944aa42abef69346e137b000aa5b74a92ba48898251",
+      "sigHash": "79c6c5717db50bb58e7433f7ff0254a6a9d0988c2fbc0fb3f9488d0e13eb755f",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-02-08T18:45:10.456Z",
+      "requestId": "req-d69a5d66fac3fb50",
+      "assetToken": "trk-file-8291ba86ced6",
+      "contentHash": "sha256:ab7e36ba56b37deb9a2272c8399cda09a18a282165064c93058d80b5c94d7991"
+    },
+    {
+      "payloadHash": "274650405ef04dd0856603c294aa2a21904b778cab79fb6068e73227af0cbd73",
+      "sigHash": "478870d275dc65aa2b83d8ec9be7376f5d2ebd29106a81e0d3aa7adf59251fc2",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-02-08T18:45:16.378Z",
+      "requestId": "req-b48e4c6857675bab",
+      "assetToken": "trk-file-5a7645fecb1e",
+      "contentHash": "sha256:c8285df0e1d15b6da7daf59aa7a698a58433eada68749ae0b55794e7105fc426"
+    },
+    {
+      "payloadHash": "021075e247cbe19f774da539cc8072a54612c6618424838773c857899aca22fc",
+      "sigHash": "c95751ddfd8e351fb9bebb31ee2b301c0ea942cd073120bbc3dcfca54f8b446d",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-02-08T18:47:08.597Z",
+      "requestId": "req-29bcabb7430ecab8",
+      "assetToken": "trk-file-8291ba86ced6",
+      "contentHash": "sha256:ab7e36ba56b37deb9a2272c8399cda09a18a282165064c93058d80b5c94d7991"
+    },
+    {
+      "payloadHash": "60122860fc91aaa64a3589a16af1d1eef96dd91e5f7bcf89a31ad6388d222e04",
+      "sigHash": "f6ba6862e30d7b21a81da5dd3210be9b988fcbb60c5655834fed6cd20970e2a0",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-02-08T18:47:19.463Z",
+      "requestId": "req-7dcd5834fe066464",
+      "assetToken": "trk-file-26bc356e42bd",
+      "contentHash": "sha256:3b22bbbafe726bb198daf6205534d0aa4983ae1b887210f4efedbec872bd0a1e"
+    }
+  ],
+  "entryCount": 4,
+  "merkle": {
+    "version": 2,
+    "rootHash": "0c4d2031e0bde65fc87265dcb907032ced58f11ff209c4e46e7509b3c96e7499",
+    "treeHeight": 2,
+    "leafCount": 4,
+    "leaves": [
+      "f40070ba87fc88ae852cba2aedb4f3fc0f59689d9d26723d0bda8e92cde283ae",
+      "28965f513a1fc2bcce0b876349cd78a49bf8ba82bf9e0544190bc05c2509f937",
+      "5520b8b95625caaaa3a998eaa34e6408bc8555bc0ef0d285fce8fd65c50c613e",
+      "db8adcf27b5ab80d65dce4bd4f62c463d22c17c92bab58a46b0ad955671d8dd7"
+    ]
+  },
+  "manifestHash": "271899664db5bdb2c4b9792c672e6fd00e483e9054789ba5d5c69470bfcb02ec"
+}
