@@ -1,0 +1,27 @@
+{
+  "v": 2,
+  "created": "2026-02-16T21:30:52.877Z",
+  "previousHash": "4d22b82a8a508fd095ec4088e061991ffbad1b7439d48e83928bc23030ef373c",
+  "entries": [
+    {
+      "payloadHash": "3513225e56f670640de413a8c66481999afbe7255165627eff860cfed6f5ab91",
+      "sigHash": "b02c8133b6a3e5ab921f47fbe14047fd87ef4abf2a155341f646b17b8cca0204",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-02-16T21:30:52.877Z",
+      "requestId": "traffic-2026-02-14-ab05d03b",
+      "assetToken": "trk-traffic-2026-02-14",
+      "contentHash": "3513225e56f670640de413a8c66481999afbe7255165627eff860cfed6f5ab91"
+    }
+  ],
+  "entryCount": 1,
+  "merkle": {
+    "version": 2,
+    "rootHash": "1ea489626dec9b50dd95d24953861278a7475cd796474ee709d33c3874baa240",
+    "treeHeight": 0,
+    "leafCount": 1,
+    "leaves": [
+      "1ea489626dec9b50dd95d24953861278a7475cd796474ee709d33c3874baa240"
+    ]
+  },
+  "manifestHash": "17e8e488b2b340ca04e32754732944c4f93ee547bbeb32b357128b813b0afc9d"
+}
