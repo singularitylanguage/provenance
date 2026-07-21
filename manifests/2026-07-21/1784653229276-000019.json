@@ -1,0 +1,57 @@
+{
+  "v": 2,
+  "created": "2026-07-21T17:00:29.276Z",
+  "previousHash": "952c56609ded417e909f1485ad555dd17fa3460b41af1c2a2a77e5a60471de5d",
+  "entries": [
+    {
+      "payloadHash": "6e63419b125c8779d8d47be55479af7e60074b7c5338816195fcee40c7508103",
+      "sigHash": "943e08f3fa7d3e45702895feaaf4fbe1714b6c4db4ddf1e013c54e6bb27e7e28",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T17:00:29.272Z",
+      "requestId": "req-5311dd4a0fff016f",
+      "assetToken": "jeej-jcorr_v1_KJVsLbN8Sj39AnJpgLubB7INCLQVl_CxqfTh6rZUI4U",
+      "contentHash": "942ee0ffd4c64c7148d56730fbe0a8d887321e90e132ba89df9ea7f39b51a875"
+    },
+    {
+      "payloadHash": "62aa14ee3ce4db4abccff3e0ee5b30d1a8cc81c94eab14a916ad8df118c1f59f",
+      "sigHash": "53cbf1998bdc5e9ba258ba0fb8ca0a367ba53e8391eb3b0097224cfbd7c5bc00",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T17:00:29.278Z",
+      "requestId": "req-35175c9603a03b42",
+      "assetToken": "jeej-jcorr_v1_QbtMPcCFZobS1q2kL9SiUW6XKHqy_Xd84avBLzLd-WQ",
+      "contentHash": "6c962ea260023379af17f95f60c96d00ccf18cf87002c303e5e0372048d4057d"
+    },
+    {
+      "payloadHash": "2322d303c8b27bf67cc9c2a862b5035b099992718004e026266427295b4e56cd",
+      "sigHash": "a8ce4c3be324641bccd2ee1eb5c9f8e46024c7d6e29cfdab9d292cc17d5d628d",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T17:00:29.284Z",
+      "requestId": "req-2cbc2159eac1f57f",
+      "assetToken": "jeej-jcorr_v1_ymWpWNjsY7yc1af9UQo2tw5rNczS4aB-UJyStopm9KI",
+      "contentHash": "36a815e39243439ae3ebcff1be27c352f3e3b40acdc5f467523993f7caf375f0"
+    },
+    {
+      "payloadHash": "d2344f4a4a013b8464c00cced95a608ab7da65eaaea613b2254c995335d6a7c9",
+      "sigHash": "3a4e5ef33ac2321d59aa4cbc46d7d93fcb35576245c56f4c3fde027d7cbca1a9",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T17:00:29.292Z",
+      "requestId": "req-a808a5c62373a92f",
+      "assetToken": "jeej-jcorr_v1_17Rwcz_s_fG60SRUgSIfX0oq0pEf4DQziSlQLne9p70",
+      "contentHash": "0bf4065c759bf8293ecfdbcf45376fa4496fa98581a7dfe7c3ea40570e890e2b"
+    }
+  ],
+  "entryCount": 4,
+  "merkle": {
+    "version": 2,
+    "rootHash": "4fa581e5423d60b77840b7b9c7b3ad14cee636bf1127d1e5a82ff689cadc590e",
+    "treeHeight": 2,
+    "leafCount": 4,
+    "leaves": [
+      "5d0b39293311621e8c507c958d9ce190742b2908c23401879707ae6444cb41bf",
+      "c1b7938588483d532acae13f16b5d4fed49091fd3d5ea901f54ced4b0d6bbe0d",
+      "5da44658ed09c7a5caf9ddc08a09dad4ee43d33099506e71092f617b42fc5285",
+      "66147caa9798abe5b7207f3dbcbba322939fce2f56cec612960e1b722f6db7ae"
+    ]
+  },
+  "manifestHash": "ba07cdebb3e2a8ed80f5c9c1561239ca171ee32f23bd07bbce8618ae8dbe9559"
+}
