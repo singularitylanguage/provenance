@@ -1,0 +1,47 @@
+{
+  "v": 2,
+  "created": "2026-07-21T17:00:24.773Z",
+  "previousHash": "442aba79ff76e7a41340e904de77698a3eaef7b0a25c140b77eb5649b1207026",
+  "entries": [
+    {
+      "payloadHash": "d268906ec20a8f2bc3ce98bbe00d8e165de63b1fa886fe9dccfd3adb05b0c048",
+      "sigHash": "2c862a2bc1644b0dfbacad788da7774b1be38d00a6658e8bc4995a80190b6519",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T17:00:24.767Z",
+      "requestId": "req-0bb7de82e4a63439",
+      "assetToken": "jeej-jcorr_v1_AlFh5NUIIgLzQcFJqnQCT9W1yAQA213hmQWOVz6csvA",
+      "contentHash": "81ea336c15db44744b32a946bfaf920bad58be87639b66743ed3a08a6f0e7479"
+    },
+    {
+      "payloadHash": "5fe2294a4b82031048dee876a1ca462a023f6da21a75c07caa1eb231a9652d3c",
+      "sigHash": "b0df52b36096c8bff0e0f116659d33314a79ed2feb3ed8789d0e3862a55faf62",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T17:00:24.781Z",
+      "requestId": "req-ce67f05b19d11ffd",
+      "assetToken": "jeej-jcorr_v1_nvdIFa7C2UjDcTabTINQ-PZTO9uE7r6IaKmRteCq_84",
+      "contentHash": "cdf1d4c2014e356a4db937a9682d724b7c2a54117940dd19e47683030d73e88b"
+    },
+    {
+      "payloadHash": "72a7aa990ed791e47139875d314d9da6638221ae023fd5239374f49ee9a866b1",
+      "sigHash": "b8dd23b5a32b734e3f1d6e7ebf743959c0625ea48ca8b24ba94987d6d3b3a677",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T17:00:24.789Z",
+      "requestId": "req-30d473b5ceaa6599",
+      "assetToken": "jeej-jcorr_v1_izpDzVWjb-Zlv43P1C0hH17KV8XHPCCTyevj6Kf7Zjk",
+      "contentHash": "306710f8e1e863b1f82c15211a22ad2f9bd9f5e80acb53e32144321e28987381"
+    }
+  ],
+  "entryCount": 3,
+  "merkle": {
+    "version": 2,
+    "rootHash": "4cb9ad40431bcf7da16a6527947ae149cc715a7aff5431e34ef5a20581f57874",
+    "treeHeight": 2,
+    "leafCount": 3,
+    "leaves": [
+      "9125a337d671ac0cb7b6656496cbde701f0b41fa0189a4a00fb889c0cea10605",
+      "14fa2a6bcebe2282f62887604d3a972d6d5102b0da0e94cfc889e4f915bff851",
+      "5643f2121f022c5a68e275b455bf983895b32d8e19ae8f0c8462ee1912c6aed0"
+    ]
+  },
+  "manifestHash": "c567c8e5636c80be3fb7622aa31fd0bb4dd50706812805d39df03b121a630d6e"
+}
