@@ -1,0 +1,107 @@
+{
+  "v": 2,
+  "created": "2026-07-21T12:28:00.958Z",
+  "previousHash": "1c4097182e138e023e031c0aa0c32712f136c79e6c84c699fb65d690454b4090",
+  "entries": [
+    {
+      "payloadHash": "bdc8a7d0bdd65da41a9c58635de952ae8b0c525e491751cd363117158fa273d3",
+      "sigHash": "37f4e3d98262d56bc41ee5807cbdec4c93f49ace2496cd10dac1b7467495e972",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:27:59.568Z",
+      "requestId": "req-7793a7e94b8cb619",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "024e31645d64a871bc96283ff4d5355e9a96901c8674112b64f2e78c44a8507a",
+      "sigHash": "2da85c7967c7b5a345cde426cdee13652f4482f9c3c80518d82794d7fab27976",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:28:00.415Z",
+      "requestId": "req-ba5cda29b8e31e00",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "fd787e3e79f0eb83c61cdd1e7931b9c05d2a9553e5e4578411b5ee25a30db7af",
+      "sigHash": "429c80fd0a670849facb8502ac4155880ad17bc1b47d010c34678e0be97433df",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:28:00.429Z",
+      "requestId": "req-a9f382c9a754e016",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "abb7e85bfad75a937519fd146f6d0bfc10afe87fe01b30b61282d681a80ea658",
+      "sigHash": "b52bb1a7f98e6a7b2a4e2374ee4dc4739ab254e0bcaebb89e9b33de566547452",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:28:00.478Z",
+      "requestId": "req-1f7587abfd432885",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "2719a344b5e5578385f8f2d951dd4fcc70d90df3a4d52f8b51d65b050e1ccb42",
+      "sigHash": "8adb5102fe4c5b4a76b5fa2d917a8e39986ed1dd5cbcdf02baab72b811570340",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:28:00.509Z",
+      "requestId": "req-d9fe63cea0e0ba7a",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "69eb9710f1f85ced522c17d1904540879956d1c66e8f23af94ee0190db4202aa",
+      "sigHash": "f4ee86f5ad5c8a71a3aa3476f588d969cacf5b4f779320e71094b786e012420e",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:28:00.543Z",
+      "requestId": "req-41f72d7b5a8315bd",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "6da089afc89e20058a31ef11b166f427d8e30e6ddd21f88def640067ab4d787d",
+      "sigHash": "9b07b2d2734f64506fb7ca9d8fca3575089ec6aea454e7aa8278347fcab54177",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:28:00.558Z",
+      "requestId": "req-1ebc6979e991b9f4",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "57ae4966ba4c0c3fcc8bf201e5b4b136613fd6ad1f0270c28e88cc2172fac0d7",
+      "sigHash": "513f869caa68bc4624337a8e4215fcac0254a4129281311795a44b840fbd7348",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:28:00.573Z",
+      "requestId": "req-242eb5570ff8e580",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "7bf4fa6d955d51d844f1ef37f8242097fc29a5a87c9705f60f7639bcf102fde4",
+      "sigHash": "9a532cb145e581f9ba5a66ca725a8135482b615f40ca24d08e038a3b30009bd5",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:28:00.958Z",
+      "requestId": "traffic-2026-07-20-eae64f28",
+      "assetToken": "trk-traffic-2026-07-20",
+      "contentHash": "7bf4fa6d955d51d844f1ef37f8242097fc29a5a87c9705f60f7639bcf102fde4"
+    }
+  ],
+  "entryCount": 9,
+  "merkle": {
+    "version": 2,
+    "rootHash": "35fdfaee19fc73de0e77128aa9dd864f3b95343ae0515ed928a6fba8741668f7",
+    "treeHeight": 4,
+    "leafCount": 9,
+    "leaves": [
+      "ad1c808ad30144e27573e2226c751c1cff9fa179e7c50261551c4c51918d391a",
+      "27dbeb8dd9acec35151a047fc087a6f3e0be244d5157b8b42e778e72e4f6bcb2",
+      "3167214eb58f40ed2c2dfcc3080fec9e98a52cea07fc45f69b2e58306d1d6cbb",
+      "d660fde0c54c3c0a1eef158432a298d0f424c9463e02c941cf10570463589c7a",
+      "2f249f859fdefb0ff87f44b4743414eab9a9bf92f3c0e2a337b1c9ad661f8ad4",
+      "6524e192e6cf10034daf5563c30ffa714ac0c32e27f85e1f8290f107816580d1",
+      "f7ae03bfb58b8d50737fe3402c2716727377b7417cba7bb9ed60ecdf58b7f46c",
+      "08eba22b705a7c231a4184706a67cccd24df1595d13021dd770c9c32e6c438fc",
+      "39da6985f43e025e9acf9cf1275591b89a9d7e85703e8daf3e5465211bd1272e"
+    ]
+  },
+  "manifestHash": "e5d46e0c83a4a6eaa64bbd55e8874c855b869545970b8082d452d34b4efb3402"
+}
