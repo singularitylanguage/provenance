@@ -1,0 +1,37 @@
+{
+  "v": 2,
+  "created": "2026-07-21T17:00:25.596Z",
+  "previousHash": "b060e544a43095e4c55a2fbc01fd16879e64d8975cdfad9b9022228625909621",
+  "entries": [
+    {
+      "payloadHash": "4030a5404af6f70f9fcf2bd64a1257225721a9ddc092bdcc73d6c989e2c5764a",
+      "sigHash": "7311b1ac2f56d64da653cf6f0347b4fa3f51e2785f09cb149a927d6c20b9ef4f",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T17:00:25.590Z",
+      "requestId": "req-0f340011368609b9",
+      "assetToken": "jeej-jcorr_v1_4ckIA0B2LkGAc0MwGpix_yqI_p2t5bJPDTvpJMoV-dg",
+      "contentHash": "208b2ecea033faec5c10a202fe5f1202ef93d19377946142179a324a7e437061"
+    },
+    {
+      "payloadHash": "e3d783f985bef2ff4a2c48da243fadbeac550701da85a350dac3edd692415277",
+      "sigHash": "c26b9d31036c0861b16b524c1fa7706c4a04c9918210257ba6781c94a539faad",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T17:00:25.597Z",
+      "requestId": "req-1fccbd46f2326403",
+      "assetToken": "jeej-jcorr_v1_fwnO6HdfDf9tsUQV6vciJWwy6ayGAy1Z7EwhVZ7pE2M",
+      "contentHash": "82191c07ae7c04faf92ec99903986f4b614899c782f4fc9a7b3d5a4928e3f03f"
+    }
+  ],
+  "entryCount": 2,
+  "merkle": {
+    "version": 2,
+    "rootHash": "dfa4f7513b92ed071274f4a9d6ffe894ce44abad79085b81f841e84f39806682",
+    "treeHeight": 1,
+    "leafCount": 2,
+    "leaves": [
+      "f03d321e5c2be4bf6e3128909ef0b516d96e03f00a9fb98f0757ff95986d41bd",
+      "d688c07fc2c50c76cc7bde70eb4dda0e2f178a8fe780d61f61df3570df3c4b69"
+    ]
+  },
+  "manifestHash": "33bdf31fddbd12d0c30884e64f3f5380f50199aa381f31d1b02e7c7519d42bf5"
+}
