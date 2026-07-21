@@ -1,0 +1,47 @@
+{
+  "v": 2,
+  "created": "2026-07-21T14:22:35.084Z",
+  "previousHash": "0425d6b973274b0b3ccadd6f746efe39faf6c22ddc715022b86c7123f0dbb956",
+  "entries": [
+    {
+      "payloadHash": "26d4c09c09982228a06e3ce29168b8fda125cbdd49ce6622208754551ed9a359",
+      "sigHash": "19a5acff3c80c6d0c9c7bcd0e40c5709704ef2b27d18983b959300a2ce0357fb",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T14:20:16.409Z",
+      "requestId": "req-e5df88863bf2910c",
+      "assetToken": "trk-file-ded2b1c655a3",
+      "contentHash": "sha256:7a28e9beaf5e5bf8abfa63d6ebb1c45feb21bed2b44893dd1f4ba72b6e969448"
+    },
+    {
+      "payloadHash": "c48016992a0f3e11d3b8c43549a7e3ba44b3b59931c2ddd2e665d7dff82457cd",
+      "sigHash": "df1c5daf1f23b0bcc3211b3d97e1756d5fe4ed9dc9aca9def91a8e90ca49c5ed",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T14:20:43.271Z",
+      "requestId": "req-89b98faa1b0739d7",
+      "assetToken": "trk-file-03c2a20b46a3",
+      "contentHash": "sha256:78e2883856a21c9af623891c9bd362d4b6d378e842ab6cc1a6f1301e861c77bb"
+    },
+    {
+      "payloadHash": "af998a2116d709b9361664bd4f186b873c0054729bcfbd1cf46fc38767bd7f27",
+      "sigHash": "83925e67e73f66dbb57490d4e343521c5d4e19c3431bed9ac1eff9d39c074fa7",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T14:21:12.439Z",
+      "requestId": "req-8fa173dbdba72209",
+      "assetToken": "trk-file-e91e5a78b0c5",
+      "contentHash": "sha256:5c02be92b0b7ce132dfdfd6a0bc63d63d921e4a4a0773260585520eae1011d61"
+    }
+  ],
+  "entryCount": 3,
+  "merkle": {
+    "version": 2,
+    "rootHash": "7603285801159ec91dacde218d20f825b92611dbc74c054880fa53c306732309",
+    "treeHeight": 2,
+    "leafCount": 3,
+    "leaves": [
+      "892482159171afe32dea8bd2602ddbbeecdc866f8f42ec9b34e2848380d7e9af",
+      "5208f4186d9686176aa2ff7842484d5b9c6c8540847abb26c6fb29a5413c93d7",
+      "515cd3016f7963a89fb920d3614f8c9a37f70eecd4c745125d9eec2ba21440c9"
+    ]
+  },
+  "manifestHash": "754cab7667adf3fb47c43b856d8c0e9f7674f75f72a394f4a848b55d9891593a"
+}
