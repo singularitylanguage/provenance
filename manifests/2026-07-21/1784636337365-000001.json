@@ -1,0 +1,47 @@
+{
+  "v": 2,
+  "created": "2026-07-21T12:18:57.365Z",
+  "previousHash": "cfab1e7fa0a10c2f840d946d0f9551ad405932095af9b52f69c075816ea333fe",
+  "entries": [
+    {
+      "payloadHash": "4b36de6dbd7ab8f7f0cbb8fa702e20a5b7add83542e9dc4793c1695032a5ad5e",
+      "sigHash": "c25a531d03fb2f0ce02682c0bff9658d7b948b2126862984e64fc4e14ee04b5d",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:18:54.830Z",
+      "requestId": "req-0e9c326f96e136ba",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "7d504923d8f90076de9665b8259276702747bf66ed20b8d22060bf2421134b85",
+      "sigHash": "d7779ba7e33c644e31ff4bcc9afa1fab36ef047992fcc96368722043a25d3f6a",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:18:54.886Z",
+      "requestId": "req-ff0d9410deccd59d",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "22ed547e293aa0540ca6b29d95651cf3e74dc1811ad0f389364a792058717644",
+      "sigHash": "b9b283a00f184335aaf9c534b1a232aadbfa51d10d43431f9a11aab27b61c492",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:18:57.365Z",
+      "requestId": "traffic-2026-07-20-2d16e987",
+      "assetToken": "trk-traffic-2026-07-20",
+      "contentHash": "22ed547e293aa0540ca6b29d95651cf3e74dc1811ad0f389364a792058717644"
+    }
+  ],
+  "entryCount": 3,
+  "merkle": {
+    "version": 2,
+    "rootHash": "68238b4d5dc180a49808d5fc8d7b852598d0ac0e33cc3c62e73191003b50fa32",
+    "treeHeight": 2,
+    "leafCount": 3,
+    "leaves": [
+      "d37328d35f14c8642cc92e3c287983f4924a41ae385b88491595ea906630a09f",
+      "3b15cf172dccc3654692907d35c41ec7500293a8d76bd916f49551deb2455527",
+      "a978033c0bc0bf7df674d88d9315a7b561974efebf121bdbb8e78b9a0ad0d1aa"
+    ]
+  },
+  "manifestHash": "facc09af2996fec1c606e94e63423c1d4903e2718555aa598e62edbd1495ca09"
+}
