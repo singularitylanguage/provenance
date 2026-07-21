@@ -1,0 +1,47 @@
+{
+  "v": 2,
+  "created": "2026-07-21T12:27:57.990Z",
+  "previousHash": "a3369857300e6db0bd0d10e183e7a07420019c8617c7fdfc80e5954fd76e2ae5",
+  "entries": [
+    {
+      "payloadHash": "50e9415206634ff7d6b463f12afb0f591a1ca81049805e562329340ca9f6bd7f",
+      "sigHash": "39eeff484bed79125a2ec4abe806f4f967d2bde25877489cd259b2effb2cdbb4",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:27:55.704Z",
+      "requestId": "req-a4ecfba9ad88a779",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "996394c0d698656d083e7d53409fd3f8870b534d050f2fd44929f34e5af02169",
+      "sigHash": "c1d4a1a5e150a55fc0a14571368a43cb13834fe19e23f492a5968ac8f5a33fd4",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:27:55.724Z",
+      "requestId": "req-7eaf464e1424d19a",
+      "assetToken": "trk-file-41b271c08888",
+      "contentHash": "sha256:7a4b95eb1d07495de5744154353227869524bba60796b9eb4bf637365be9af78"
+    },
+    {
+      "payloadHash": "dcb0afce317e3dda9e9779cf7dd08974c15bfc5c1b8853bae15a70f078c4a147",
+      "sigHash": "411819346d7b031246d5758bd0fa28e62501936c7715c10f115b60104ac10d3a",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-21T12:27:57.990Z",
+      "requestId": "traffic-2026-07-20-b58f62f7",
+      "assetToken": "trk-traffic-2026-07-20",
+      "contentHash": "dcb0afce317e3dda9e9779cf7dd08974c15bfc5c1b8853bae15a70f078c4a147"
+    }
+  ],
+  "entryCount": 3,
+  "merkle": {
+    "version": 2,
+    "rootHash": "04e8329adbd90a587a69b074dba5fff87384feeca9fc394859b6a1a18fe314b1",
+    "treeHeight": 2,
+    "leafCount": 3,
+    "leaves": [
+      "720d54573d4e9a7b8bd5e0c2860f3bc27f49024ec971d605e76ebe1d9fdad9bc",
+      "2712cbb70e10675d536ece94dd16e565497b98feedbd24187135ee95ee83c241",
+      "fbe5b1779c1acc7ca50c5802595a438e4651838f966caf7215f2e408c0716109"
+    ]
+  },
+  "manifestHash": "1aed61b09e1cc2f0eae6cff93e5864b388f2d3197fcbfbe630e468ebe70237e6"
+}
