@@ -1,0 +1,27 @@
+{
+  "v": 2,
+  "created": "2026-07-23T15:22:40.279Z",
+  "previousHash": "84e24909559e45ba9aebf2f1b0c63d918319725d2a70e0d6971f44a755553292",
+  "entries": [
+    {
+      "payloadHash": "26232b8a80b2c723434c750261f719771a30a4c2c44b2c5ee11c924b760faaf5",
+      "sigHash": "ecb1059f1be384e6076de4642ad11fb0d5c0e0e2f8de3d5cbfc5008eff08e115",
+      "kid": "l0key-876c9c47",
+      "iat": "2026-07-23T15:22:40.275Z",
+      "requestId": "req-78d82b0001e897a2",
+      "assetToken": "jeej-jcorr_v1_15eccc557c6e2fd60542ca4f6b1635ca",
+      "contentHash": "5cd1cd2162d2f1fce97ce4d118722b17c20c38fe966a24cee38a13fdee3717c0"
+    }
+  ],
+  "entryCount": 1,
+  "merkle": {
+    "version": 2,
+    "rootHash": "d697d6c83f9e44d575523d5d4d493b72935261d3d656c1e238f2d6bddd47fc3c",
+    "treeHeight": 0,
+    "leafCount": 1,
+    "leaves": [
+      "d697d6c83f9e44d575523d5d4d493b72935261d3d656c1e238f2d6bddd47fc3c"
+    ]
+  },
+  "manifestHash": "4dbf1f64c2e279175fbacc0895bd8ef8dadba2145e90a02d0e902d473761339f"
+}
